@@ -1,9 +1,0 @@
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8 >> tv gazeta sp
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8 >> SBT
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1601593812.m3u8  >>> REDE TV
-
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8 >> TV DIARIO
-
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8 >> TV GAZETA HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w938662459.m3u8 >>> SBT
-https://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8 >> TV ESCOLA
